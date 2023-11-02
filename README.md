@@ -23,5 +23,3 @@ This is a starter kit for Laravel 10 integrated with Craftable, a powerful admin
 
 
 For more information on how to use Craftable, please refer to the [Craftable documentation](https://getcraftable.com/docs/7.0).
-
-Now you can access your Laravel application at `http://localhost:8000`.
