@@ -20,3 +20,8 @@ This is a starter kit for Laravel 10 integrated with Craftable, a powerful admin
 
 
 7. Install JavaScript dependencies and build the frontend: npm install && npm run craftable-prod
+
+
+For more information on how to use Craftable, please refer to the [Craftable documentation](https://getcraftable.com/docs/7.0).
+
+Now you can access your Laravel application at `http://localhost:8000`.
